@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "react-admin-dashboard-pro",
   "private": true,
   "version": "1.0.0",
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "vite": "^5.4.0"
